@@ -1,0 +1,144 @@
+{
+            "type": "page",
+            "version": 1,
+            "children": [
+                {
+                    "type": "card",
+                    "style": "info",
+                    "title": "Důležité",
+                    "icon": "icon_circle_alert.svg",
+                    "children": [
+                        {
+                            "type": "paragraph",
+                            "style": "normal",
+                            "text": [
+                                { "text": "Škodu je potřeba nahlásit co nejdříve. Většina pojišťoven vyžaduje nahlášení do "},
+                                { "text": "15 dnů", "bold": true},
+                                { "text": " od vzniku škodní události."}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "card",
+                    "style": "document",
+                    "title": "Postup při nahlášení",
+                    "icon": "icon_circle_check_big.svg",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "ordered-items",
+                            "size": "big",
+                            "items": [
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "header": {
+                                        "title": "Připravte si dokumenty",
+                                        "icon": "icon_file_text.svg"
+                                    },
+                                    "text": "Záznam o nehodě, fotografie škody, zelená karta"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "header": {
+                                        "title": "Vyberte své vozidlo",
+                                        "icon": "icon_shield.svg"
+                                    },
+                                    "text": "Ověřte si kontakt na pojišťovnu"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "header": {
+                                        "title": "Kontaktujte pojišťovnu",
+                                        "icon": "icon_phone.svg"
+                                    },
+                                    "text": "Telefonicky nebo online formulářem"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "button",
+                            "style": "emergency",
+                            "icon": "icon_file_text.svg",
+                            "text": "Nahlásit škodu online",
+                            "action-type": "open-webview",
+                            "href": "https://hlaseniskody.modulservis.cz/?id=9e9770f1-cc67-4143-8280-fa69144ecf3f"
+                        }
+                    ]
+                },
+                {
+                    "type": "card",
+                    "style": "document",
+                    "title": "Co mít připravené",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "unordered",
+                            "bullet": "none",
+                            "items": [
+                                {
+                                    "type": "list-card-item",
+                                    "text": "Záznam o nehodě (papírový nebo elektronický)",
+                                    "icon": "icon_file_text.svg"
+                                },
+                                {
+                                    "type": "list-card-item",
+                                    "text": "Fotografie poškození vozidla a místa nehody",
+                                    "icon": "icon_camera.svg"
+                                },
+                                {
+                                    "type": "list-card-item",
+                                    "text": "Zelená karta (doklad o pojištění)",
+                                    "icon": "icon_shield.svg"
+                                },
+                                {
+                                    "type": "list-card-item",
+                                    "text": "Technický průkaz vozidla",
+                                    "icon": "icon_file_text.svg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "card",
+                    "style": "document-white-checks",
+                    "title": "Tipy pro rychlejší vyřízení",
+                    "icon": "icon_clock.svg",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "unordered",
+                            "bullet-icon": "icon_circle_check_big.svg",
+                            "items": [
+                                "Nahlaste škodu co nejdříve po události",
+                                "Pořiďte fotografie z více úhlů",
+                                "Vyplňte záznam o nehodě s druhým řidičem",
+                                "Uchovejte všechny doklady a faktury"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "card",
+                    "style": "document",
+                    "title": "Co dělat při větší škodě",
+                    "icon": "icon_circle_alert.svg",
+                    "children": [
+                        {
+                            "type": "paragraph",
+                            "style": "normal",
+                            "text": "Pokud je škoda větší nebo se nejedná o běžnou nehodu, pojišťovna může vyslat na místo likvidátora, který posoudí rozsah škody přímo."
+                        },
+                        {
+                            "type": "paragraph",
+                            "style": "small",
+                            "text": "V takovém případě neopravujte vozidlo do příjezdu likvidátora, pokud vás pojišťovna nepožádá o jiný postup."
+                        }
+                    ]
+                }
+            ]
+        }

@@ -1,0 +1,6 @@
+[
+  {"name":"Dopravní nehoda","subtitle":"Jak postupovat","description":"Stala se mi dopravní nehoda","imageSource":"dopravni_nehoda.png","contentAsset":"assets/content/dopravni_nehoda.json"},
+  {"name":"Mám poruchu","subtitle":"Jak postupovat","description":"Mám poruchu","imageSource":"porucha.png","contentAsset":"assets/content/mam_poruchu.json"},
+  {"name":"Záznam o nehodě","subtitle":"Oficiální formulář","description":"Elektronický záznam o nehodě","imageSource":"zaznam_o_nehode.png","contentAsset":"assets/content/zaznam_o_nehode.json"},
+  {"name":"Nahlásit škodu","subtitle":"Průvodce hlášením","description":"Nahlásit škodu pojišťovně","imageSource":"nahlasit_skodu.png","contentAsset":"assets/content/nahlasit_skodu.json"}
+]

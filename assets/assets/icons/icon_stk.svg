@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-170 -147 340 294">
+  <!-- Outline STK stamp: three hexagons and rays. Black stroke so
+       TintableIcon can tint the tile icon with the document color. -->
+  <g fill="none" stroke="#000" stroke-linejoin="miter" stroke-linecap="butt">
+    <path d="M161.7,0 L80.8,-140 L-80.8,-140 L-161.7,0 L-80.8,140 L80.8,140 Z" stroke-width="14"/>
+    <g stroke-width="14">
+      <path d="M105.9,0 L53,-91.7 L-52.9,-91.7 L-105.9,0 L-53,91.7 L53,91.7 Z"/>
+      <path d="M60.5,0 L30.3,-52.4 L-30.2,-52.4 L-60.5,0 L-30.3,52.4 L30.3,52.4 Z"/>
+      <path d="M60.5,0 L105.9,0"/>
+      <path d="M0,-52.4 L0,-91.7"/>
+      <path d="M-60.5,0 L-105.9,0"/>
+      <path d="M0,52.4 L0,91.7"/>
+      <path d="M105.9,0 L161.7,0"/>
+      <path d="M79.4,-45.8 L121.2,-70"/>
+      <path d="M52.9,-91.7 L80.8,-140"/>
+      <path d="M0,-91.7 L0,-140"/>
+      <path d="M-52.9,-91.7 L-80.8,-140"/>
+      <path d="M-79.4,-45.8 L-121.2,-70"/>
+      <path d="M-105.9,0 L-161.7,0"/>
+      <path d="M-79.4,45.9 L-121.2,70"/>
+      <path d="M-52.9,91.7 L-80.8,140"/>
+      <path d="M0,91.7 L0,140"/>
+      <path d="M52.9,91.7 L80.8,140"/>
+      <path d="M79.4,45.9 L121.2,70"/>
+    </g>
+  </g>
+</svg>

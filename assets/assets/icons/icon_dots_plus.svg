@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 376 376" fill="none">
+  <ellipse cx="188" cy="53" rx="52" ry="53" fill="#FFCF4B"/>
+  <ellipse cx="323" cy="188" rx="53" ry="52" fill="#FFCF4B"/>
+  <ellipse cx="53" cy="188" rx="53" ry="52" fill="#FFCF4B"/>
+  <ellipse cx="188" cy="323" rx="52" ry="53" fill="#FFCF4B"/>
+  <circle cx="188" cy="188" r="52" fill="#FFCF4B"/>
+</svg>

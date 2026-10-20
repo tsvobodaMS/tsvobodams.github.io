@@ -1,0 +1,88 @@
+{
+            "type": "page",
+            "version": 1,
+            "children": [
+                {
+                    "type": "card",
+                    "style": "document-white-checks",
+                    "title": "Bouračka.cz",
+                    "subtitle": "Oficiální elektronický formulář",
+                    "icon": "icon_file_text.svg",
+                    "tooltip": {
+                        "title": "O službě Bouračka.cz",
+                        "text": "Bezplatná webová aplikace spravovaná Českou kanceláří pojistitelů (ČKP) pro rychlé vytvoření elektronického záznamu o dopravní nehodě v ČR přímo v telefonu nebo tabletu. Jedná se o oficiální alternativu k euroformuláři uznavanou všemi pojišťovnami v ČR."
+                    },
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "unordered",
+                            "bullet-icon": "icon_circle_check_big.svg",
+                            "items": [
+                                "Nedošlo ke zranění nebo usmrcení",
+                                "Škoda nepřesáhla 200 000 Kč",
+                                "Nedošlo k poškození majetku třetí strany",
+                                "Nehoda se stala na území ČR"
+                            ]
+                        },
+                        {
+                            "type": "button",
+                            "style": "emergency",
+                            "icon": "icon_external_link.svg",
+                            "text": "Otevřít Bouračka.cz",
+                            "action-type": "link",
+                            "href": "https://www.bouracka.cz/formular/informations"
+                        },
+                        {
+                            "type": "paragraph",
+                            "style": "small",
+                            "text-align": "center",
+                            "text": "Odkaz vás přesměruje na oficiální formulář"
+                        }
+                    ]
+                },
+                {
+                    "type": "card",
+                    "style": "document-white",
+                    "title": "Jak to funguje",
+                    "icon": "icon_file_text.svg",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "ordered-items",
+                            "size": "big",
+                            "items": [
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "text": [
+                                        { "text": "Otevřete " },
+                                        { "text": "Bouračka.cz", "link": "https://www.bouracka.cz/formular/informations" },
+                                        { "text": " v prohlížeči – nic nemusíte instalovat" }
+                                    ]
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "text": "Zadáte základní údaje o nehodě"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "text": "Nahrajete fotografie poškození a okolí"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "text": "Aplikace vás provede až k elektronickému podpisu pomocí SMS"
+                                },
+                                {
+                                    "type": "paragraph",
+                                    "style": "normal",
+                                    "text": "Hotový záznam obdrží oba účastníci e-mailem a i jejich pojišťovny"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }

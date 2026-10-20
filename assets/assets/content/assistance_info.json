@@ -1,0 +1,13 @@
+{
+  "type": "card",
+  "style": "info",
+  "icon": "icon_info.svg",
+  "title": "Co budu potřebovat?",
+  "children": [
+    {
+      "type": "paragraph",
+      "style": "small",
+      "text": "Při volání asistenční služby obvykle stačí sdělit jednoznačný identifikátor např. registrační značku vozidla, adresu nemovitosti, či jiné. Pokud asistenci nedohledají, uveďte název pojišťovny a číslo smlouvy."
+    }
+  ]
+}

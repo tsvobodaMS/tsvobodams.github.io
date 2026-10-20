@@ -1,0 +1,468 @@
+{
+    "type": "page",
+    "title": "Kdy se vám porucha stala?",
+    "style": "tab",
+    "chrome": "smlouvy",
+    "abroad-hint": "Zatím platí tento postup. Při ohrožení zdraví nebo požáru volejte 112.",
+    "version": 1,
+    "tabs": [
+        {
+            "type": "tab",
+            "title": "Porucha za jízdy",
+            "short-title": "Za jízdy",
+            "subtitle": "Postup, když vozidlo selže na cestě",
+            "icon": "icon_navigation.svg",
+            "children": [
+                {
+                    "type": "card",
+                    "style": "document",
+                    "title": "Porucha za jízdy",
+                    "subtitle": "Postup, když vozidlo selže na cestě",
+                    "icon": "icon_navigation.svg",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "ordered-items",
+                            "size": "big",
+                            "items": [
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zajistěte bezpečnost"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Pokud možno zajeďte ke straně, zabrzděte vozidlo a zapněte výstražná světla."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Oblečte si reflexní vestu ještě před vystoupením z vozidla."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "info-small",
+                                        "title": "Na dálnici",
+                                        "icon": "icon_info.svg",
+                                        "children": [
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "size": "small",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": "Pokud je to možné, dojeďte do odstavného pruhu."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": "Po zastavení vozidla zabrzděte, oblečte si reflexní vestu a opusťte vozidlo."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": "Přesuňte se za svodidla a zdržujte se mimo vozovku."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": "Nevstupujte zpět do jízdních pruhů."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "warning",
+                                        "icon": "icon_circle_alert.svg",
+                                        "children": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "small",
+                                                "text": [
+                                                    { "text": "Důležité. ", "bold": true },
+                                                    { "text": "Pokud je situace nepřehledná nebo nebezpečná (zatáčka, tma, hustý provoz), nejprve myslete na vlastní bezpečí a bezpečí posádky. " },
+                                                    { "text": "Vozidlo kouří nebo hoří? Okamžitě odejděte od vozidla a volejte 112.", "bold": true }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Označte vozidlo"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Umístěte výstražný trojúhelník za vozidlo (min. 50 m, na dálnici 100 m)."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Trojúhelník musí být dobře viditelný pro ostatní řidiče."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "warning",
+                                        "icon": "icon_circle_alert.svg",
+                                        "children": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "small",
+                                                "text": [
+                                                    { "text": "Důležité. ", "bold": true },
+                                                    { "text": "Pokud je umístění trojúhelníku nebezpečné (např. na dálnici v hustém provozu), nevystavujte sebe riziku." }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zdokumentujte závadu"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Vyfoťte kontrolky na palubní desce."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Vyfoťte stav tachometru (najeté kilometry)."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Zapište si, co se dělo před poruchou (zvuk, zápach, svítící kontrolka)."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Připravte si údaje pro asistenci"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "SPZ vozidla."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Přesná poloha (silnice, kilometr, směr jízdy)."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Stručný popis závady."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Počet osob ve vozidle."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zavolejte asistenční službu"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Pokud nelze pokračovat v jízdě, využijte asistenční službu ke své pojistce."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Asistence může zajistit opravu na místě, odtah vozidla do servisu nebo další technickou pomoc."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "warning",
+                                        "icon": "icon_circle_alert.svg",
+                                        "children": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "small",
+                                                "text": [
+                                                    { "text": "Důležité. ", "bold": true },
+                                                    { "text": "Asistenční službu můžete využít i v případě, že si nejste jistí rozsahem závady nebo dalším postupem." }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "button",
+                                        "style": "primary",
+                                        "icon": "icon_shield_check.svg",
+                                        "text": "Ověřit asistenci k vozidlu"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Počkejte na bezpečném místě"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Zůstaňte za svodidly nebo mimo vozovku."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Mějte u sebe telefon a nechte si na sobě reflexní vestu."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "tab",
+            "title": "Porucha na zaparkovaném vozidle",
+            "short-title": "Zaparkované",
+            "subtitle": "Postup, když vozidlo nenastartuje nebo nejede",
+            "icon": "icon_circle_parking.svg",
+            "children": [
+                {
+                    "type": "card",
+                    "style": "document",
+                    "title": "Porucha na zaparkovaném vozidle",
+                    "subtitle": "Postup, když vozidlo nenastartuje nebo nejede",
+                    "icon": "icon_circle_parking.svg",
+                    "children": [
+                        {
+                            "type": "list",
+                            "style": "ordered-items",
+                            "size": "big",
+                            "items": [
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zhodnoťte závadu"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Motor nenastartuje."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Vybitá baterie."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Defekt pneumatiky."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Došlo palivo."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Jiná technická závada."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zvažte vyřešení závady svépomocí"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Máte k dispozici startovací kabely?"
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Máte rezervní kolo nebo opravnou sadu?"
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Je možné závadu odstranit bez rizika dalšího poškození vozidla?"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "warning",
+                                        "icon": "icon_circle_alert.svg",
+                                        "children": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "small",
+                                                "text": [
+                                                    { "text": "Důležité. ", "bold": true },
+                                                    { "text": "Pokud si nejste jistí postupem nebo nemáte potřebné vybavení, nepokoušejte se závadu řešit neodborně." }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Připravte si údaje pro asistenci"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "SPZ vozidla."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Přesná adresa nebo poloha vozidla."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Stručný popis závady (co se stalo, jaká kontrolka svítí)."
+                                            }
+                                        ]
+                                    }
+                                ],
+                                [
+                                    {
+                                        "type": "paragraph",
+                                        "style": "big",
+                                        "text": "Zavolejte asistenční službu"
+                                    },
+                                    {
+                                        "type": "list",
+                                        "style": "unordered",
+                                        "bullet-icon": "icon_circle_check_big.svg",
+                                        "items": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Asistence může pomoci s nastartováním vozidla."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "Může zajistit výměnu kola nebo dovoz paliva."
+                                            },
+                                            {
+                                                "type": "paragraph",
+                                                "style": "normal",
+                                                "text": "V případě potřeby zajistí odtah vozidla do servisu."
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "card",
+                                        "style": "warning",
+                                        "icon": "icon_circle_alert.svg",
+                                        "children": [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "small",
+                                                "text": [
+                                                    { "text": "Důležité. ", "bold": true },
+                                                    { "text": "Asistenční službu můžete využít i při poruše před domem, na parkovišti nebo mimo veřejnou komunikaci." }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "button",
+                                        "style": "primary",
+                                        "icon": "icon_shield_check.svg",
+                                        "text": "Ověřit asistenci k vozidlu"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

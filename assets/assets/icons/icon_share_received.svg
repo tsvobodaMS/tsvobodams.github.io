@@ -1,0 +1,12 @@
+<svg width="569" height="750" viewBox="0 0 569 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tray with a gap on the top edge. The gap is a hole in the mask, not a white paint, so a navy tint does not fill it in. -->
+  <mask id="tray-opening" maskUnits="userSpaceOnUse">
+    <rect width="569" height="750" fill="black"/>
+    <rect y="245" width="569" height="505" rx="60" fill="white"/>
+    <rect x="179" y="245" width="210" height="70" fill="black"/>
+  </mask>
+  <rect y="245" width="569" height="505" rx="60" stroke="black" stroke-width="140" mask="url(#tray-opening)"/>
+  <line x1="286.558" x2="286.558" y2="450" stroke="black" stroke-width="70"/>
+  <line x1="405.086" y1="372.468" x2="262.528" y2="515.026" stroke="black" stroke-width="70"/>
+  <line x1="167.749" y1="370.749" x2="310.307" y2="513.307" stroke="black" stroke-width="70"/>
+</svg>

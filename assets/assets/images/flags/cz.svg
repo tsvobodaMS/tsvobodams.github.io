@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2">
+  <!-- Official Czech tricolour. Kept in brand colours so the tile
+       must not tint it  white would disappear on a white bubble. -->
+  <rect width="3" height="1" fill="#fff"/>
+  <rect y="1" width="3" height="1" fill="#D7141A"/>
+  <polygon points="0,0 1.5,1 0,2" fill="#11457E"/>
+</svg>

@@ -1,0 +1,1420 @@
+{
+            "type": "page",
+            "title": "Co se stalo?",
+            "style": "tab",
+            "chrome": "smlouvy",
+            "version": 1,
+            "tabs": [
+                {
+                    "type": "tab",
+                    "title": "Dopravní nehoda",
+                    "short-title": "Bouračka",
+                    "icon": "icon_car.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Dopravní nehoda",
+                            "subtitle": "Postup při poškození nejen vašeho vozidla",
+                            "children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zajistěte bezpečnost"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zabrzděte vozidlo, vypněte motor a s vozidlem nehýbejte."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zapněte výstražná světla."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Oblečte si reflexní vestu."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Umístěte výstražný trojúhelník v dostatečné vzdálenosti (min. 50 m, na dálnici 100 m)."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud je situace nebezpečná (provoz, zatáčka, tma), nejdříve myslete na vlastní bezpečí."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zkontrolujte zranění a poskytněte první pomoc"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zjistěte, zda je někdo zraněn."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud ano, neprodleně kontaktujte tísňovou linku."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Poskytněte první pomoc podle instrukcí operátora."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nenechávejte zraněné bez dozoru."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Je-li kdokoli zraněn nebo si nejste jistí → volejte 112 nebo 155."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Kdy volat policii (158)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Došlo k poškození majetku třetí strany (sloup, značka, plot…)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Účastníci se neshodnou na vině."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Je podezření na alkohol či drogy."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Škoda zjevně přesahuje 200 000 Kč."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Došlo k poškození silnice nebo veřejného zařízení."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud si nejste jistí, raději policii přivolejte."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte situaci"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte postavení vozidel (z více úhlů)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte detailně poškození."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte SPZ všech vozidel."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zapište si kontakt na ostatní účastníky."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zachyťte dopravní značení a okolí nehody."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud je to bezpečné a nedošlo ke zranění, po zdokumentování odstraňte vozidla z komunikace. Pokud je přivolána policie, postupujte podle jejich pokynů."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Vyplňte záznam o dopravní nehodě"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Použijte elektronický záznam bouracka.cz níže nebo papírový Evropský záznam o dopravní nehodě."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Obě strany by měly dokument podepsat."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Nepodepisujte dokument, pokud s obsahem nesouhlasíte."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "text": "Záznam o nehodě",
+                                                "action-type": "link",
+                                                "href": "https://www.bouracka.cz/formular/informations"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte asistenční službu (je-li potřeba)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud není vozidlo způsobilé provozu, kontaktujte asistenční službu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_shield_check.svg",
+                                                "text": "Ověřit asistenci k vozidlu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlaste škodu pojišťovně co nejdříve."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte fotografie a vyplněný záznam."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "V aplikaci vás provedeme dalším postupem."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tab",
+                    "title": "Střet se zvěří",
+                    "short-title": "Zvěř",
+                    "subtitle": "Postup při srážce s divokou zvěří",
+                    "icon": "icon_paw_print.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Střet se zvěří",
+                            	"children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zajistěte bezpečnost"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zabrzděte vozidlo, vypněte motor a s vozidlem nehýbejte."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zapněte výstražná světla."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Oblečte si reflexní vestu."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Umístěte výstražný trojúhelník v dostatečné vzdálenosti (min. 50 m, na dálnici 100 m)."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Nepřibližujte se ke zraněnému zvířeti – může být agresivní nebo přenášet nemoci."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte policii (158)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Střet se zvěří je nutné vždy nahlásit policii."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Policie sepíše úřední záznam, který je nezbytný pro pojišťovnu."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Postupujte dle pokynů policie."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Nikdy neodnášejte usmrcenou zvěř – je to nelegální (pytláctví). Policie přivolá myslivce."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte situaci"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte poškození vozidla."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte místo nehody a umístění zvěře (pokud je to bezpečné)."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte asistenční službu (je-li potřeba)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud není vozidlo způsobilé provozu, kontaktujte asistenční službu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_shield_check.svg",
+                                                "text": "Ověřit asistenci k vozidlu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlaste škodu pojišťovně co nejdříve."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte úřední záznam od policie a fotografie."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Záznam od policie je důležitý pro plnění pojišťovny."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tab",
+                    "title": "Poškození pouze vlastního vozidla",
+                    "short-title": "Mé vozidlo",
+                    "icon": "icon_circle_alert.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Poškození pouze vlastního vozidla",
+                            "subtitle": "Postup při samostatné nehodě (bez cizí účasti)",
+                            "children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zajistěte bezpečnost"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zabrzděte vozidlo, vypněte motor a s vozidlem nehýbejte."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zapněte výstražná světla."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Oblečte si reflexní vestu."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Umístěte výstražný trojúhelník v dostatečné vzdálenosti (min. 50 m, na dálnici 100 m)."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte situaci"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte poškození vozidla ze všech stran."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte místo nehody."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zachyťte okolí a případné dopravní značení."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud jste poškodili cizí majetek (plot, značka, svodidla), volejte policii (158)."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Posouzení situace"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud nebyl poškozen cizí majetek a je vozidlo způsobilé k provozu na pozemní komunikaci, můžete opustit místo nehody."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud byl poškozen cizí majetek → klikněte na tlačítko níže a postupujte dle pokynů."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_info.svg",
+                                                "text": "Poškodil jsem cizí majetek"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte asistenční službu (je-li potřeba)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud není vozidlo způsobilé provozu, kontaktujte asistenční službu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_shield_check.svg",
+                                                "text": "Ověřit asistenci k vozidlu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlaste škodu pojišťovně co nejdříve."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte fotografie poškození."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Škoda na vlastním vozidle se řeší přes havarijní pojištění (pokud ho máte). Povinné ručení ji nepokryje."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tab",
+                    "title": "Poškození zaparkovaného vozidla",
+                    "short-title": "Zaparkované",
+                    "icon": "icon_circle_parking.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Poškození zaparkovaného vozidla",
+                            "subtitle": "Postup při nalezení poškozeného vozidla",
+                            	"children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte situaci"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Podívejte se, zda viník nezanechal kontakt pod stěračem."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zjistěte kontakt na případné svědky."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte poškození vozidla detailně ze všech úhlů."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte místo, kde bylo vozidlo zaparkováno."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte okolí."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Čím více dokumentace, tím lépe."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Pokuste se zjistit viníka"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zkontrolujte, zda nejsou v okolí bezpečnostní kamery."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud máte v autě kameru, zkontrolujte záznam."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte policii (158)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud neznáte viníka a škoda je vyšší, volejte policii."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Policie sepíše záznam o události."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Tento záznam poslouží pojišťovně."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Bez záznamu policie nebo kontaktu na viníka bude obtížné velkou škodu řešit."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte asistenční službu (je-li potřeba)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud není vozidlo způsobilé provozu, kontaktujte asistenční službu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_shield_check.svg",
+                                                "text": "Ověřit asistenci k vozidlu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlaste pojišťovně škodu co nejdříve."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte fotografie a záznam policie (pokud byl sepsán)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud znáte viníka, uveďte jeho kontakt a pojišťovnu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud neznáte viníka a nemáte havarijní pojištění, pojišťovna škodu neuhradí."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tab",
+                    "title": "Poškození skla",
+                    "short-title": "Sklo",
+                    "icon": "icon_glasses.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Poškození skla",
+                            "subtitle": "Postup při poškození čelního skla nebo výhledových skel",
+                            	"children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Posouzení situace"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Je vozidlo bezpečné k jízdě? (Prasklina mimo zorné pole řidiče)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud ne, zastavte na bezpečném místě."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud je čelní sklo prasklé v zorném poli řidiče, jízda je nebezpečná a nezákonná."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte poškození"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte prasklinu nebo poškození detailně."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte celé sklo (pro kontext velikosti)."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Přelepte prasklinu"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud je prasklina malá a máte možnost, tak ji přelepte, aby se nezvětšila."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Jeďte do servisu, aby prasklinu scelili nebo sklo vyměnili."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Pokud je prasklina velká, nesnažte se pokračovat v jízdě a rovnou volejte asistenční službu."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zavolejte asistenční službu (je-li potřeba)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud není vozidlo způsobilé provozu, kontaktujte asistenční službu."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "secondary",
+                                                "icon": "icon_shield_check.svg",
+                                                "text": "Ověřit asistenci k vozidlu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Poškození skla se často řeší přes doplňkové pojištění nebo havarijní pojištění."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Kontaktujte pojišťovnu a domluvte se na opravě nebo výměně."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlásit škodu můžete tlačítkem níže."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Poškození skla odletěným kamenem ze silnice je standardní případ, který pojišťovny řeší běžně."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tab",
+                    "title": "Odcizení",
+                    "short-title": "Krádež",
+                    "icon": "icon_shield_alert.svg",
+                    "children": [
+                        {
+                            "type": "card",
+                            "style": "document",
+                            "title": "Odcizení",
+                            "subtitle": "Postup při odcizení vozidla, jeho části nebo věcí ve vozidle",
+                                "children": [
+                                {
+                                    "type": "list",
+                                    "style": "ordered-items",
+                                    "size": "big",
+                                    "items": [
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Okamžitě volejte policii (158 nebo 112)"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Odcizení je trestný čin při škodě nad 10.000 Kč nebo již při vloupání."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Policie zahájí šetření."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nikdy se nedotýkejte vozidla nebo věcí – mohou zde být stopy."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Čím dříve ohlásíte odcizení, tím větší šance na nalezení odcizené věci nebo pachatele."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Zdokumentujte situaci"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte poškození (rozbitá okna, vylomený zámek, ...)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte místo, kde bylo vozidlo zaparkováno."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Vyfoťte okolí (případné kamery)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Zjistěte kontakt na případné svědky."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Nedotýkejte se ničeho – policie bude hledat otisky a stopy."}
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Počkejte na policii"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Policie provede ohledání a sepíše protokol."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Uveďte, co bylo odcizeno (věci z vozidla, celé vozidlo)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud máte GPS tracker, sdělte to policii."
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Nahlaste škodu pojišťovně"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Nahlaste odcizení pojišťovně co nejdříve."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte protokol od policie."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Přiložte fotografie."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Připravte si doklady o vozidle (technický průkaz, faktura za vozidlo)."
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "card",
+                                                "style": "warning",
+                                                "icon": "icon_circle_alert.svg",
+                                                "children": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "small",
+                                                        "text": [
+                                                            { "text": "Důležité. ", "bold": true},
+                                                            { "text": "Odcizení vozidla se řeší přes havarijní pojištění nebo doplňkové připojištění. Samotné povinné ručení jej nepokryje."}
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "type": "button",
+                                                "style": "primary",
+                                                "text": "Nahlásit škodu",
+                                                "action-type": "navigate",
+                                                "navigate-to": "nahlásit škodu"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "type": "paragraph",
+                                                "style": "big",
+                                                "text": "Čekání na výsledek vyšetřování"
+                                            },
+                                            {
+                                                "type": "list",
+                                                "style": "unordered",
+                                                "bullet-icon": "icon_circle_check_big.svg",
+                                                "items": [
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Policie bude hledat vozidlo nebo pachatele."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pojišťovna vyčká na výsledek šetření (obvykle 30–60 dní)."
+                                                    },
+                                                    {
+                                                        "type": "paragraph",
+                                                        "style": "normal",
+                                                        "text": "Pokud vozidlo není nalezeno, pojišťovna proplatí škodu podle podmínek."
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }

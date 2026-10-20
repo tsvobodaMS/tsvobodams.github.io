@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-163 -142 326 284">
+  <!-- Czech STK stamp. Black stroke/fill so TintableIcon can recolor it. -->
+  <g fill="none" stroke="#000" stroke-linejoin="miter" stroke-linecap="butt">
+    <path d="M158.1,0 L79.1,-136.9 L-79,-136.9 L-158.1,0 L-79.1,136.9 L79.1,136.9 Z" stroke-width="6.2"/>
+    <path d="M105.9,0 L53,-91.7 L-52.9,-91.7 L-105.9,0 L-53,91.7 L53,91.7 Z" stroke-width="2.6"/>
+    <g stroke-width="3.6">
+      <path d="M105.9,0 L154.5,0"/>
+      <path d="M79.4,-45.8 L115.9,-66.9"/>
+      <path d="M52.9,-91.7 L77.2,-133.8"/>
+      <path d="M0,-91.7 L0,-133.8"/>
+      <path d="M-52.9,-91.7 L-77.2,-133.8"/>
+      <path d="M-79.4,-45.8 L-115.9,-66.9"/>
+      <path d="M-105.9,0 L-154.5,0"/>
+      <path d="M-79.4,45.9 L-115.9,66.9"/>
+      <path d="M-52.9,91.7 L-77.2,133.8"/>
+      <path d="M0,91.7 L0,133.8"/>
+      <path d="M52.9,91.7 L77.2,133.8"/>
+      <path d="M79.4,45.9 L115.9,66.9"/>
+      <path d="M59.5,0 L106.9,0"/>
+      <path d="M0,-51.4 L0,-92.7"/>
+      <path d="M-59.5,0 L-106.9,0"/>
+      <path d="M0,51.4 L0,92.7"/>
+    </g>
+    <path d="M60.5,0 L30.3,-52.4 L-30.2,-52.4 L-60.5,0 L-30.3,52.4 L30.3,52.4 Z" stroke-width="4"/>
+  </g>
+  <g fill="#000">
+    <circle cx="-22.7" cy="-72" r="13.5"/>
+    <circle cx="22.7" cy="-72" r="13.5"/>
+    <circle cx="-22.7" cy="72" r="13.5"/>
+    <circle cx="22.7" cy="72" r="13.5"/>
+  </g>
+  <g fill="#000" font-family="Open Sans, Helvetica, Arial, sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="central">
+    <g font-size="39">
+      <text transform="translate(108.7,-29.1) rotate(60)">7</text>
+      <text transform="translate(79.5,-79.5) rotate(60)">6.</text>
+      <text transform="translate(29.1,-108.7) rotate(0)">5</text>
+      <text transform="translate(-29.1,-108.7) rotate(0)">4</text>
+      <text transform="translate(-79.5,-79.5) rotate(300)">3</text>
+      <text transform="translate(-108.7,-29.1) rotate(300)">2</text>
+      <text transform="translate(-108.7,29.1) rotate(240)">1</text>
+      <text transform="translate(-79.5,79.5) rotate(240)">12</text>
+      <text transform="translate(-29.1,108.7) rotate(180)">11</text>
+      <text transform="translate(29.1,108.7) rotate(180)">10</text>
+      <text transform="translate(79.5,79.5) rotate(120)">9.</text>
+      <text transform="translate(108.7,29.1) rotate(120)">8</text>
+    </g>
+    <g font-size="42">
+      <text transform="translate(60.6,-35) rotate(60)" textLength="48" lengthAdjust="spacingAndGlyphs">27</text>
+      <text transform="translate(-60.6,-35) rotate(300)" textLength="48" lengthAdjust="spacingAndGlyphs">26</text>
+      <text transform="translate(-60.6,35) rotate(240)" textLength="48" lengthAdjust="spacingAndGlyphs">29</text>
+      <text transform="translate(60.6,35) rotate(120)" textLength="48" lengthAdjust="spacingAndGlyphs">28</text>
+    </g>
+    <text y="0" font-size="32" textLength="40" lengthAdjust="spacingAndGlyphs">TK</text>
+  </g>
+</svg>
